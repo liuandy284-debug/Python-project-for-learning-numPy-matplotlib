@@ -8,6 +8,7 @@ The goal is to build enough foundation to use Python independently.
 | Project | File | What I learned |
 |---------|------|----------------|
 | P1 - Basic Charts | Graph_compare.py | plt.plot, plt.bar, plt.hist, plt.scatter |
+| P3 - Grid Visualization | imshow_grid.py | imshow, mcolors, ListedColormap, vmin/vmax |
 
 ## How to Run
 
