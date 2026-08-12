@@ -15,9 +15,11 @@ The goal is to build enough foundation to use Python independently.
 **macOS / Linux**
 ```bash
 python3 Graph_compare.py
+python3 imshow_grid.py
 ```
 
 **Windows**
 ```bash
 python Graph_compare.py
+python imshow_grid.py
 ```
