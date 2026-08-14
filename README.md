@@ -11,6 +11,7 @@ The goal is to build enough foundation to use Python independently.
 | P3 - Grid Visualization | imshow_grid.py | imshow, mcolors, ListedColormap, vmin/vmax |
 | P4 - Animation of Graph | animation.py | FuncAnimation, update, frame |
 | P5 - NumPy practice | numpy_practice.py | array slicing, distance calculation, np.where |
+| P6 - Heatmap | heatmap.py | colorbar() |
 
 ## How to Run
 
@@ -20,6 +21,7 @@ python3 Graph_compare.py
 python3 imshow_grid.py
 python3 animation.py
 python3 numpy_practice.py
+python3 heatmap.py
 ```
 
 **Windows**
@@ -28,4 +30,5 @@ python Graph_compare.py
 python imshow_grid.py
 python animation.py
 python numpy_practice.py
+python heatmap.py
 ```
