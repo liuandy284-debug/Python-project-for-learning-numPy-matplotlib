@@ -12,6 +12,7 @@ The goal is to build enough foundation to use Python independently.
 | P4 - Animation of Graph | animation.py | FuncAnimation, update, frame |
 | P5 - NumPy practice | numpy_practice.py | array slicing, distance calculation, np.where |
 | P6 - Heatmap | heatmap.py | colorbar() |
+| P7 - Map Editor | map_editor.py | mil_connect, event, canvas.draw |
 
 ## How to Run
 
@@ -22,6 +23,7 @@ python3 imshow_grid.py
 python3 animation.py
 python3 numpy_practice.py
 python3 heatmap.py
+python3 map_editor.py
 ```
 
 **Windows**
@@ -31,4 +33,5 @@ python imshow_grid.py
 python animation.py
 python numpy_practice.py
 python heatmap.py
+python map_editor.py
 ```
