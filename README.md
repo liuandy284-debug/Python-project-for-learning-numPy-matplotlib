@@ -14,6 +14,7 @@ The goal is to build enough foundation to use Python independently.
 | P6 - Heatmap | heatmap.py | colorbar() |
 | P7 - Map Editor | map_editor.py | mil_connect, event, canvas.draw |
 | P8 - Dictionary and set | practice_of_dict_set.py | dictionary, set, max, enumerate |
+| P9 - Heapq | heapq_practice.py | heapq, heappopm heappush |
 
 ## How to Run
 
@@ -26,6 +27,7 @@ python3 numpy_practice.py
 python3 heatmap.py
 python3 map_editor.py
 python3 practice_of_dict_set.py
+pythob3 heapq_practice
 ```
 
 **Windows**
@@ -37,4 +39,5 @@ python numpy_practice.py
 python heatmap.py
 python map_editor.py
 python practice_of_dict_set.py
+python heapq_practice
 ```
