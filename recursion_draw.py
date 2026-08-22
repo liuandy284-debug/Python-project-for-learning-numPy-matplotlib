@@ -34,5 +34,11 @@ def reverse(s):
     if len(s) == 1:
         return s[0]
     return reverse(s[1:]) + s[0]
-
+============================
+def fibonacci(n):
+    if n == 1:
+        return 1
+    if n == 2:
+        return 1
+    return fibonacci(n-1) + fibonacci(n-2)
 """
