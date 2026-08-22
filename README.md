@@ -16,6 +16,7 @@ The goal is to build enough foundation to use Python independently.
 | P8 - Dictionary and set | practice_of_dict_set.py | dictionary, set, max, enumerate |
 | P9 - Heapq | heapq_practice.py | heapq, heappopm heappush |
 | P10 - Class | class_practice.py | __lt__, __repr__, __init__ |
+| P11 - Recursion in matplotlib | recursion_draw.py | recursion, Fibonacci, Fractal Tree |
 
 ## How to Run
 
@@ -30,6 +31,7 @@ python3 map_editor.py
 python3 practice_of_dict_set.py
 pythob3 heapq_practice
 python3 class_practice.py
+python3 recursion_draw.py
 ```
 
 **Windows**
@@ -43,4 +45,5 @@ python map_editor.py
 python practice_of_dict_set.py
 python heapq_practice
 python class_practice.py
+python recursion_draw.py
 ```
